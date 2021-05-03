@@ -1,6 +1,7 @@
 ### Hi there 👋
-:airplane: Korean :airplane: <br>
-:school: Jungbu University :school: <br>
+:airplane: Country:Korean :airplane: <br>
+:school: School:Jungbu University :school: <br>
+:computer: Major: epartment of information security :computer: <br>
 :email: cocoa09100@naver.com :envelope:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYerim-Lee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
