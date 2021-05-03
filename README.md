@@ -1,4 +1,5 @@
 ### Hi there 👋
+![PYTHON](https://img.shields.io/badge/PYTHON-style=plastic&logo=Python&logoColor=white)
 :airplane: Country:Korean :airplane: <br>
 :school: School:Jungbu University :school: <br>
 :computer: Major: epartment of information security :computer: <br>
