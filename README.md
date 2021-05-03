@@ -1,5 +1,5 @@
 ### Hi there 👋
-:kr: Korean <br>
+:kr: Korean :jp:  :cn:<br>
 :school: Jungbu University <br>
 :email: cocoa09100@naver.com
 
