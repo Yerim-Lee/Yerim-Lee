@@ -5,8 +5,6 @@
 :computer: Major: epartment of information security :computer: <br>
 :email: cocoa09100@naver.com :envelope:
 
-              <p>&#128151;</p>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yerim-Lee&theme=buefy&show_icons=true)
 
 
