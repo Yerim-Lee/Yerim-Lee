@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![PYTHON](https://img.shields.io/badge/PYTHON-style=plastic&logo=Python&logoColor=white) <br>
-![C](https://img.shields.io/badge/C-style=plastic&logo=C&logoColor=white) <br>
 <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white" />
 
 
