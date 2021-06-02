@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=CSS&logoColor=white" />
 <img src="https://img.shields.io/badge/Javascript-E34F26?style=flat-square&logo=Javascript&logoColor=white" />
 <br>
-<img src="https://img.shields.io/badge/GitHub-F43059?style=flat-square&logo=GitHubS&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHubS&logoColor=white" />
 
 
 :airplane: Korean :airplane: <br>
