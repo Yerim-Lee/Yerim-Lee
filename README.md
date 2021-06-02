@@ -11,7 +11,7 @@
 :airplane: Korean <br>
 :school: School:Jungbu University <br>
 :computer: Major: epartment of information security <br>
-:email: cocoa09100@naver.com :envelope:
+:email: cocoa09100@naver.com 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yerim-Lee&theme=buefy&show_icons=true)
 
