@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![PYTHON](https://img.shields.io/badge/PYTHON-style=plastic&logo=Python&logoColor=white) <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> <br> 
-<img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=CSS&logoColor=white" /> <br> 
+<img src="https://img.shields.io/badge/CSS-F43059?style=flat-square&logo=#F43059CSS&logoColor=white" /> <br> 
 
 :airplane: Korean :airplane: <br>
 :school: School:Jungbu University :school: <br>
