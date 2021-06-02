@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![PYTHON](https://img.shields.io/badge/PYTHON-style=plastic&logo=Python&logoColor=white) <br>
-![PYTHON](https://img.shields.io/badge/C-A8B9CC-style=plastic&logo=C&logoColor=white) <br>
+![C](https://img.shields.io/badge/C-style=plastic&logo=C&logoColor=white) <br>
 #A8B9CC
 
 
